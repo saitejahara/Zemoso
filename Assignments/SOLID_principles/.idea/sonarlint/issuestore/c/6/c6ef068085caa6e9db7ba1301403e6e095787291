@@ -1,11 +1,0 @@
-
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÕßøÀûÿÿÿÿ
-M
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÍŠØø©/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(şÅÂ½ûÿÿÿÿ
-N	java:S106	"9Replace this use of System.out or System.err by a logger.(œ‹åƒ
-V	java:S125"<This block of commented-out lines of code should be removed.(¥Û±¥øÿÿÿÿ
-L
-java:S6212"/Declare this local variable with "var" instead.(”Éãõ8¹Æ½ö©/
-S	java:S106"9Replace this use of System.out or System.err by a logger.(÷¡«şÿÿÿÿ
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(÷¡«şÿÿÿÿ
