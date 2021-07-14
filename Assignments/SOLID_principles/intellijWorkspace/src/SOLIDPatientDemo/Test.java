@@ -15,11 +15,10 @@ public class Test {
 
         //Dependency Inversion Principle
         IPatient patient1=new CoronaPatient();
-        patient1.setTotalExpenses(500);
+        patient1.setTotalExpenses(600);
         patient1.setDiseaseName("Black Fungus");
         patient1.extraCharges("PPE Kit");
         patientDetails(patient1.getDiseaseName(), patient1.getBill(), patient1.getDescription());
-
 
 
         //Liskov Substitution Principle

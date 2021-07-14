@@ -1,6 +1,6 @@
 package SOLIDPatientDemo;
 
-public interface IExtraCharges {
+interface IExtraCharges {
     //single responsibility implementation
     public void extraCharges(String extras);
 
