@@ -7,7 +7,6 @@ interface IExtraCharges {
     /*violating single responsibility and interface segregation
      * public void getBill(int totolExpenses);
      * public void setDiseaseName(String diseaseName);
-     *
      * */
 }
 
