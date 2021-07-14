@@ -1,0 +1,58 @@
+
+n
+java:S1192 "LDefine a constant instead of duplicating this literal "DNA Strand:" 4 times.(ôÆÜˆúÿÿÿÿ8ĞŞ¤£ª/
+d
+java:S1192""GDefine a constant instead of duplicating this literal "Gene :" 4 times.(½—Ì‡8ĞŞ¤£ª/
+m	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıó¤‰8ÖŞ¤£ª/
+m	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤Ì•İ8ÖŞ¤£ª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´í£ûÿÿÿÿ8åŞ¤£ª/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áò“°8æŞ¤£ª/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°¾ö’8çŞ¤£ª/
+Q
+java:S6212"/Declare this local variable with "var" instead.(åùè•üÿÿÿÿ8îŞ¤£ª/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(ôÆÜˆúÿÿÿÿ8ïŞ¤£ª/
+U	java:S106""9Replace this use of System.out or System.err by a logger.(½—Ì‡8ğŞ¤£ª/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ôÆÜˆúÿÿÿÿ8ñŞ¤£ª/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(½—Ì‡8óŞ¤£ª/
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(ôÆÜˆúÿÿÿÿ8ôŞ¤£ª/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(½—Ì‡8õŞ¤£ª/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(ôÆÜˆúÿÿÿÿ8öŞ¤£ª/
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(½—Ì‡8÷Ş¤£ª/
+Q
+java:S62124"/Declare this local variable with "var" instead.(¡Ò¾üÿÿÿÿ8øŞ¤£ª/
+U	java:S1068"9Replace this use of System.out or System.err by a logger.(½—Ì‡8ûŞ¤£ª/
+L
+java:S6212>"/Declare this local variable with "var" instead.(İÕ¤Ö8şŞ¤£ª/
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ôÎ‹úÿÿÿÿ8‚ß¤£ª/
+L
+java:S6212O"/Declare this local variable with "var" instead.(È©Ñà8†ß¤£ª/
+L
+java:S6212U"/Declare this local variable with "var" instead.(ˆéíÌ8‡ß¤£ª/
+L
+java:S6212]"/Declare this local variable with "var" instead.(ÂÅ—İ8‹ß¤£ª/
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(„ÈîÉùÿÿÿÿ8Œß¤£ª/
+Z	java:S106`"9Replace this use of System.out or System.err by a logger.(„ÈîÉùÿÿÿÿ8ß¤£ª/
+Z	java:S106b"9Replace this use of System.out or System.err by a logger.(„ÈîÉùÿÿÿÿ8ß¤£ª/
+L
+java:S6212e"/Declare this local variable with "var" instead.(ıó¤‰8ß¤£ª/
+L
+java:S6212f"/Declare this local variable with "var" instead.(¤Ì•İ8‘ß¤£ª/
+Q
+java:S6212g"/Declare this local variable with "var" instead.(“»ïüøÿÿÿÿ8‘ß¤£ª/
+Q
+java:S6212h"/Declare this local variable with "var" instead.(Ë£Øİıÿÿÿÿ8’ß¤£ª/
+T	java:S106p"9Replace this use of System.out or System.err by a logger.(ƒÚáB8“ß¤£ª/
+T	java:S106t"9Replace this use of System.out or System.err by a logger.(ƒÚáB8”ß¤£ª/
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(œ±Ö8•ß¤£ª/
+Z	java:S106y"9Replace this use of System.out or System.err by a logger.(´°«Åşÿÿÿÿ8–ß¤£ª/
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(Ì¡şˆıÿÿÿÿ8—ß¤£ª/
+]	java:S125}"<This block of commented-out lines of code should be removed.(ÑàÃÿÿÿÿÿÿ8˜ß¤£ª/
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§•µ¸úÿÿÿÿ8™ß¤£ª/
+[	java:S106‡"9Replace this use of System.out or System.err by a logger.(­ƒã„úÿÿÿÿ8œß¤£ª/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(‰¶†æüÿÿÿÿ8ß¤£ª/
+M
+java:S6212‘"/Declare this local variable with "var" instead.(Ê«¾8§ß¤£ª/
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(‰¶†æüÿÿÿÿ8¨ß¤£ª/
+U	java:S106”"9Replace this use of System.out or System.err by a logger.(Úô°	8©ß¤£ª/
+M
+java:S6212˜"/Declare this local variable with "var" instead.(……¶Ò8ªß¤£ª/

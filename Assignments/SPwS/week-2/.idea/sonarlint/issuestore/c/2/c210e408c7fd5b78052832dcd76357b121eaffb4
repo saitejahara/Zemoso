@@ -1,0 +1,27 @@
+
+m
+java:S1192"PDefine a constant instead of duplicating this literal "The string is: " 5 times.(£²‚8Üƒä¢ª/
+m
+java:S1192"PDefine a constant instead of duplicating this literal ". The Gene is: " 5 times.(£²‚8äƒä¢ª/
+L
+java:S6212"/Declare this local variable with "var" instead.(ìş“8ôƒä¢ª/
+L
+java:S6212"/Declare this local variable with "var" instead.(Êá¡8ùƒä¢ª/
+L
+java:S6212"/Declare this local variable with "var" instead.(èĞÀŞ8úƒä¢ª/
+L
+java:S6212"/Declare this local variable with "var" instead.(îşù‡8úƒä¢ª/
+Q
+java:S6212"/Declare this local variable with "var" instead.(–ë„óşÿÿÿÿ8ûƒä¢ª/
+Q
+java:S6212"/Declare this local variable with "var" instead.(ñ·ô†úÿÿÿÿ8ûƒä¢ª/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£²‚8üƒä¢ª/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(­ÍÇ»8şƒä¢ª/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Û•Ó‡8€„ä¢ª/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(äˆõ
+8„ä¢ª/
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(Í˜ºv8ƒ„ä¢ª/
+Q
+java:S6212$"/Declare this local variable with "var" instead.(¿Üˆøıÿÿÿÿ8…„ä¢ª/
+H
+java:S1481"+Remove this unused "result" local variable.(ìş“8‡„ä¢ª/
