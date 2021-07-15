@@ -1,0 +1,17 @@
+
+Q
+java:S6212"/Declare this local variable with "var" instead.(àöš›úÿÿÿÿ8³˜éÔª/
+U
+java:S1197"8Move the array designator from the variable to the type.(‘¸æ8¿˜éÔª/
+K
+java:S6212"/Declare this local variable with "var" instead.(±Ë”,8Á˜éÔª/
+Q
+java:S6212*"/Declare this local variable with "var" instead.(õ¯¾µúÿÿÿÿ8Å˜éÔª/
+L
+java:S6212+"/Declare this local variable with "var" instead.(¹ª©8ß˜éÔª/
+L
+java:S6212."/Declare this local variable with "var" instead.(óøûÀ8â˜éÔª/
+T	java:S106/"9Replace this use of System.out or System.err by a logger.(´â“8ä˜éÔª/
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(Ÿìıèùÿÿÿÿ8ç˜éÔª/
+L
+java:S62126"/Declare this local variable with "var" instead.(£µ¯8ë˜éÔª/
