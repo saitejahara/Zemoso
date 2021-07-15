@@ -1,0 +1,62 @@
+
+]
+java:S3518X";Make sure "count" can't be zero before doing this division.(¶Şı†ùÿÿÿÿ8¡•úªª/
+f
+java:S1192"JDefine a constant instead of duplicating this literal "short.csv" 3 times.(Î×¬8£•úªª/
+h
+java:S1192"LDefine a constant instead of duplicating this literal "testing/yob" 3 times.(Î×¬8¤•úªª/
+Q
+java:S6212"/Declare this local variable with "var" instead.(é–ÌÊøÿÿÿÿ8¹•úªª/
+L
+java:S6212"/Declare this local variable with "var" instead.(üŒõš8º•úªª/
+K
+java:S6212"/Declare this local variable with "var" instead.(Ï°Ş.8º•úªª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úûá¥ÿÿÿÿÿ8½•úªª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Â±â¥ùÿÿÿÿ8¿•úªª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒæÖÆûÿÿÿÿ8À•úªª/
+K
+java:S6212"/Declare this local variable with "var" instead.(Î×¬8„¥ŞÅª/
+L
+java:S6212"/Declare this local variable with "var" instead.(‰š•8®¥ŞÅª/
+L
+java:S6212"/Declare this local variable with "var" instead.(½ïÔè8Â•úªª/
+W
+java:S6213":Rename this variable to not match a restricted identifier.(Õ÷ 8Ã•úªª/
+Q
+java:S6212%"/Declare this local variable with "var" instead.(šÚ ñøÿÿÿÿ8Æ•úªª/
+K
+java:S6212&"/Declare this local variable with "var" instead.(Î×¬8À¥ŞÅª/
+L
+java:S6212'"/Declare this local variable with "var" instead.(‰š•8Ä¥ŞÅª/
+Q
+java:S6212("/Declare this local variable with "var" instead.(‡¨ôÇşÿÿÿÿ8Ç•úªª/
+W
+java:S6213)":Rename this variable to not match a restricted identifier.(Õ÷ 8È•úªª/
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(ªˆïä8Ï•úªª/
+L
+java:S6212>"/Declare this local variable with "var" instead.(ó¦Ä8é¥ŞÅª/
+Q
+java:S6212A"/Declare this local variable with "var" instead.(†œÏîúÿÿÿÿ8Õ•úªª/
+Y
+java:S1854K"7Remove this useless assignment to local variable "inf".(¯íôŠıÿÿÿÿ8Û•úªª/
+E
+java:S1659K"#Declare "count" on a separate line.(¯íôŠıÿÿÿÿ8Ü•úªª/
+L
+java:S6212M"/Declare this local variable with "var" instead.(ó¦Ä8ı¥ŞÅª/
+Q
+java:S6212P"/Declare this local variable with "var" instead.(†œÏîúÿÿÿÿ8Ş•úªª/
+K
+java:S6212["/Declare this local variable with "var" instead.(Î×¬8ˆ¦ŞÅª/
+L
+java:S6212\"/Declare this local variable with "var" instead.(‰š•8‰¦ŞÅª/
+Q
+java:S6212]"/Declare this local variable with "var" instead.(ø‘óÄøÿÿÿÿ8ã•úªª/
+W
+java:S6213^":Rename this variable to not match a restricted identifier.(Õ÷ 8ä•úªª/
+Q
+java:S6212g"/Declare this local variable with "var" instead.(¬è¾äøÿÿÿÿ8Ú üªª/
+T	java:S106h"9Replace this use of System.out or System.err by a logger.(ßÇãi8é•úªª/
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(¥ßüßÿÿÿÿÿ8ë•úªª/
+]	java:S125j"<This block of commented-out lines of code should be removed.(¿û×…úÿÿÿÿ8ì•úªª/
+J
+java:S1481K"(Remove this unused "inf" local variable.(¯íôŠıÿÿÿÿ8í•úªª/
