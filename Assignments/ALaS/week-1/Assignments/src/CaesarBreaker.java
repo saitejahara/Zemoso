@@ -12,7 +12,6 @@ public class CaesarBreaker {
                 counts[index]++;
             }
         }
-
         return counts;
     }
 

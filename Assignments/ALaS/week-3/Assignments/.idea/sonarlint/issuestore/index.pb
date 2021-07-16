@@ -13,8 +13,6 @@ Z
 *src/FindingUniqueIPAddresses/LogEntry.java,1/c/1ce3e35741e753f895bdc408b9adc03c3d7f2a30
 V
 &src/CountingWebVisits/LogAnalyzer.java,e/e/ee49c574b1caa5250819168007f9ddbc5a9196df
-S
-#src/CountingWebVisits/LogEntry.java,a/d/ad8c3de263a1641292f5911018b4864ad7cca366
 T
 $src/CountingWebVisits/short-test_log,9/2/92ac90e06379f8d23852f534910732c7dfc095e0
 W
@@ -35,3 +33,5 @@ O
 src/ReadingLogFiles/Tester.java,a/d/ad32508fcc07e781ab15c30678024dd61f3dcb7b
 T
 $src/ReadingLogFiles/LogAnalyzer.java,4/9/49f5e482ea58e75eed89a56f0e5f04dc61c14510
+S
+#src/CountingWebVisits/LogEntry.java,a/d/ad8c3de263a1641292f5911018b4864ad7cca366

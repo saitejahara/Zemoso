@@ -9,7 +9,6 @@ public class GladLibMap {
     private ArrayList<String> usedCategory;
 
     private Random myRandom;
-
     private int totalReplacedWords;
 
     private static String dataSourceURL = "http://dukelearntoprogram.com/course3/data";

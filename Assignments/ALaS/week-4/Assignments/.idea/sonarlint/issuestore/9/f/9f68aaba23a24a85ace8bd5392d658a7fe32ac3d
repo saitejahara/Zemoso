@@ -21,10 +21,14 @@ E
 java:S6212"/Declare this local variable with "var" instead.(™Êº¿
 J
 java:S6212"/Declare this local variable with "var" instead.(ÇŸ™˜øÿÿÿÿ
+Q
+java:S6212"/Declare this local variable with "var" instead.(Æ—‚üÿÿÿÿ8²Œ—÷ª/
 J
 java:S6212"/Declare this local variable with "var" instead.(õ¯¾µúÿÿÿÿ
 E
 java:S6212"/Declare this local variable with "var" instead.(åİµ¯
+Q
+java:S6212"/Declare this local variable with "var" instead.(„İœ¢şÿÿÿÿ8ÃŒ—÷ª/
 N	java:S106!"9Replace this use of System.out or System.err by a logger.(ãäÂç
 o
 java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(„û´ı
@@ -35,6 +39,8 @@ java:S6212="/Declare this local variable with "var" instead.(ş—Ò…ıÿÿÿÿ
 J
 java:S6212@"/Declare this local variable with "var" instead.(º›£şÿÿÿÿ
 V	java:S125C"<This block of commented-out lines of code should be removed.(«¯ã”ûÿÿÿÿ
+Q
+java:S6212F"/Declare this local variable with "var" instead.(„İœ¢şÿÿÿÿ8Ô—÷ª/
 J
 java:S6212T"/Declare this local variable with "var" instead.(õ¯¾µúÿÿÿÿ
 E

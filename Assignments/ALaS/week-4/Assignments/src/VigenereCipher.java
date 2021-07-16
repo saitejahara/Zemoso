@@ -37,5 +37,4 @@ public class VigenereCipher {
     public String toString() {
         return Arrays.toString(ciphers);
     }
-    
 }
