@@ -1,0 +1,46 @@
+
+V
+java:S3518Y";Make sure "count" can't be zero before doing this division.(¶Şı†ùÿÿÿÿ
+_
+java:S1192"JDefine a constant instead of duplicating this literal "short.csv" 3 times.(Î×¬
+a
+java:S1192"LDefine a constant instead of duplicating this literal "testing/yob" 3 times.(Î×¬
+J
+java:S6212"/Declare this local variable with "var" instead.(é–ÌÊøÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(üŒõš
+D
+java:S6212	"/Declare this local variable with "var" instead.(Ï°Ş.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(úûá¥ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Â±â¥ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒæÖÆûÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(½ïÔè
+P
+java:S6213":Rename this variable to not match a restricted identifier.(Õ÷ 
+J
+java:S6212&"/Declare this local variable with "var" instead.(šÚ ñøÿÿÿÿ
+J
+java:S6212)"/Declare this local variable with "var" instead.(‡¨ôÇşÿÿÿÿ
+P
+java:S6213*":Rename this variable to not match a restricted identifier.(Õ÷ 
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(ªˆïä
+J
+java:S6212B"/Declare this local variable with "var" instead.(†œÏîúÿÿÿÿ
+R
+java:S1854L"7Remove this useless assignment to local variable "inf".(¯íôŠıÿÿÿÿ
+>
+java:S1659L"#Declare "count" on a separate line.(¯íôŠıÿÿÿÿ
+J
+java:S6212Q"/Declare this local variable with "var" instead.(†œÏîúÿÿÿÿ
+J
+java:S6212^"/Declare this local variable with "var" instead.(ø‘óÄøÿÿÿÿ
+P
+java:S6213_":Rename this variable to not match a restricted identifier.(Õ÷ 
+J
+java:S6212h"/Declare this local variable with "var" instead.(¬è¾äøÿÿÿÿ
+M	java:S106i"9Replace this use of System.out or System.err by a logger.(ßÇãi
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(¥ßüßÿÿÿÿÿ
+V	java:S125k"<This block of commented-out lines of code should be removed.(¿û×…úÿÿÿÿ
+C
+java:S1481L"(Remove this unused "inf" local variable.(¯íôŠıÿÿÿÿ

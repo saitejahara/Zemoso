@@ -1,4 +1,5 @@
 import edu.duke.*;
+
 public class Part1 {
     public int findStopCodon(String dna, int startIndex, String stopCodon){
         int nextIndex = dna.indexOf(stopCodon, startIndex+1);

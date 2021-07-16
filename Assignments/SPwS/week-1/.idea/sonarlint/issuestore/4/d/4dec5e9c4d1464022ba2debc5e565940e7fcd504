@@ -1,0 +1,25 @@
+
+]
+java:S2259c"BA "NullPointerException" could be thrown; "temp" is nullable here.(¢Ïäıÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(¯¸ƒÎ
+J
+java:S6212"/Declare this local variable with "var" instead.(ÖöƒŠÿÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(àûõ¤
+M	java:S106k"9Replace this use of System.out or System.err by a logger.(÷È@
+N	java:S106l"9Replace this use of System.out or System.err by a logger.(„±§¤
+N	java:S106m"9Replace this use of System.out or System.err by a logger.(Ïæñƒ
+S	java:S106n"9Replace this use of System.out or System.err by a logger.(ÁÕÇ‘üÿÿÿÿ
+N	java:S106r"9Replace this use of System.out or System.err by a logger.(Ş‚ı
+S	java:S106v"9Replace this use of System.out or System.err by a logger.(©˜ƒÙÿÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(úõ–áùÿÿÿÿ
+T	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¹Ã‹«ûÿÿÿÿ
+O	java:S106Š"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”
+F
+java:S6212"/Declare this local variable with "var" instead.(ÍÕÂŠ
+T	java:S106‘"9Replace this use of System.out or System.err by a logger.(Á›Ñšüÿÿÿÿ
+T	java:S106’"9Replace this use of System.out or System.err by a logger.(şïèøùÿÿÿÿ
+N	java:S106•"9Replace this use of System.out or System.err by a logger.(É¤ï[
+O	java:S106–"9Replace this use of System.out or System.err by a logger.(Ö£Ùš
+A
+java:S1481"+Remove this unused "currPt" local variable.(›¾±Ã

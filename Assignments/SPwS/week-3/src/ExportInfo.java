@@ -48,6 +48,7 @@ public class ExportInfo {
         parser = fr.getCSVParser();
         bigExporters(parser, "$400,000,000");
     }
+
     public static void main(String[] args){
         ExportInfo exportInfo = new ExportInfo();
         exportInfo.tester();

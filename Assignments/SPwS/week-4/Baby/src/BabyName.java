@@ -1,6 +1,7 @@
 import edu.duke.*;
 import org.apache.commons.csv.*;
 import java.io.*;
+
 public class BabyName {
     public void totalBirths (FileResource fr) {
         int totalNames = 0;

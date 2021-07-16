@@ -21,6 +21,7 @@ public class Part3 {
         if (closestStopCodon == dna.length()) return "";
         return dna.substring(atgCodon, closestStopCodon+3);
     }
+
     public void printAllGenes(String dna){
         int start=0;
         while(true){
@@ -30,6 +31,7 @@ public class Part3 {
             start = dna.indexOf(gene,start)+ gene.length();
         }
     }
+
     public int countGenes(String dna){
         int count=0;
         int start=0;
@@ -41,9 +43,11 @@ public class Part3 {
         }
         return count;
     }
+
     public void testCountGenes(){
         System.out.println("No of genes "+countGenes("ATGAAATAGATGTGA"));
     }
+    
     public static void main(String[] args){
         Part3 p3=new Part3();
         p3.testCountGenes();

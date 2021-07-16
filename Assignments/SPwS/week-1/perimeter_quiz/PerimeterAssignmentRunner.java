@@ -26,7 +26,6 @@ public class PerimeterAssignmentRunner {
         for (Point currPt : s.getPoints()) {
             numPoints++;
         }
-
         return numPoints;
     }
 

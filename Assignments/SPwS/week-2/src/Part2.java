@@ -63,6 +63,7 @@ public class Part2 {
         gene = findSimpleGene(dna,startCodon,stopCodon);
         System.out.println("Gene = " + gene);
     }
+
     public static void main(String[] args){
         Part2 p2=new Part2();
         p2.testFindSimpleGene();
