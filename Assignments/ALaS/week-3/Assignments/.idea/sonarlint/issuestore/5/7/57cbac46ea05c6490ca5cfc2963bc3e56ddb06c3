@@ -1,0 +1,28 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†´¸
+K
+java:S6212"/Declare this local variable with "var" instead.(ï£—<8õÍ°ôª/
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ƒ½Ñ°üÿÿÿÿ
+L
+java:S6212
+"/Declare this local variable with "var" instead.(´“¼ô8üÍ°ôª/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«©ÍŒ
+L
+java:S6212"/Declare this local variable with "var" instead.(°£ÏÁ8€Î°ôª/
+L
+java:S6212"/Declare this local variable with "var" instead.(°£ÏÁ8ƒÎ°ôª/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ù“Ê§
+L
+java:S6212"/Declare this local variable with "var" instead.(°£ÏÁ8‡Î°ôª/
+L
+java:S6212!"/Declare this local variable with "var" instead.(°£ÏÁ8ŠÎ°ôª/
+P
+java:S6213$":Rename this variable to not match a restricted identifier.(÷õýÊ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¨ã¤
+S	java:S106("9Replace this use of System.out or System.err by a logger.(û‰Ñþÿÿÿÿ
+L
+java:S6212,"/Declare this local variable with "var" instead.(°£ÏÁ8”Î°ôª/
+N	java:S106."9Replace this use of System.out or System.err by a logger.(ËøÛ
+M	java:S106/"9Replace this use of System.out or System.err by a logger.(Á®Œ!
+J
+java:S62123"/Declare this local variable with "var" instead.(²íÀ…þÿÿÿÿ

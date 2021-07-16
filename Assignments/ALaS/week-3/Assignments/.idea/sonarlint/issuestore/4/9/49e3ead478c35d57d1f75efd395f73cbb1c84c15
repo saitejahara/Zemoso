@@ -1,0 +1,26 @@
+
+†
+java:S13192"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(©ç™¬
+J
+java:S10667"/Merge this if statement with the enclosing one.(æ”Êàúÿÿÿÿ
+J
+java:S1066E"/Merge this if statement with the enclosing one.(æ”Êàúÿÿÿÿ
+u	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†´¸8¬à©ôª/
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ëšÙ
+J
+java:S6212"/Declare this local variable with "var" instead.(õ¯¾µúÿÿÿÿ
+L
+java:S6212"/Declare this local variable with "var" instead.(õÂöÕ8éË²ôª/
+I
+java:S2440",Remove this instantiation of "WebLogParser".(õÂöÕ8êË²ôª/
+Q
+java:S2209"5Change this instance-reference to a static reference.(µ«€Q8ëË²ôª/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ½Ñ°üÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚þ»Û
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ƒ½Ñ°üÿÿÿÿ
+o
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚þ»Û
+o
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚þ»Û

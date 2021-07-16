@@ -7,7 +7,7 @@ public class Test {
 
         Diseases b = (Diseases) a.clone();
         List<String> list = b.getDiseaseList();
-        list.add("COVID-19");
+        list.add("Body pains");
 
         System.out.println(a.getDiseaseList());
         System.out.println(list);
@@ -16,5 +16,4 @@ public class Test {
         System.out.println(list);
         System.out.println(a.getDiseaseList());
     }
-
 }
