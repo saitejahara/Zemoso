@@ -31,7 +31,6 @@ public class Diseases implements Cloneable {
         for(String s : this.getDiseaseList()) {
             tempList.add(s);
         }
-
         return new Diseases(tempList);
     }
 }
