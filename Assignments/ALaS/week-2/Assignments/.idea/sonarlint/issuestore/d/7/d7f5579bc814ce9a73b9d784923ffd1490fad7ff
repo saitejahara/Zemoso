@@ -1,0 +1,25 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ï•Ù
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÀÞƒŸùÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÄÃŒÃýÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(õ¯¾µúÿÿÿÿ
+E
+java:S6212$"/Declare this local variable with "var" instead.(¯Ä§“
+E
+java:S6212+"/Declare this local variable with "var" instead.(÷­ËÔ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ÿë¬ö
+E
+java:S62128"/Declare this local variable with "var" instead.(€«žì
+J
+java:S6212G"/Declare this local variable with "var" instead.(ôêï¿ýÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(žÝÁ‘
+E
+java:S6212K"/Declare this local variable with "var" instead.(÷­ËÔ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(„Œ¬¢þÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(š¼Ãíúÿÿÿÿ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ÉíÈÔûÿÿÿÿ
+E
+java:S6212["/Declare this local variable with "var" instead.(Ûµ¹ð

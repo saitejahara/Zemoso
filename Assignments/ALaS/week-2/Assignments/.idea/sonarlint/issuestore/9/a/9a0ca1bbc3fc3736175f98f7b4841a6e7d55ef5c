@@ -1,0 +1,60 @@
+
+1
+java:S1643`"Use a StringBuilder instead.(¼ºÑ4
+1
+java:S1643f"Use a StringBuilder instead.(¼ºÑ4
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(££¼ğúÿÿÿÿ
+T
+java:S4973G"9Use the "equals" method if value comparison was intended.(›’“éüÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÙµß
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÓğØúÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ûì·˜øÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÙµß
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŒÓğØúÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ûì·˜øÿÿÿÿ
+J
+java:S6212%"/Declare this local variable with "var" instead.(ÙÛÌ«ıÿÿÿÿ
+J
+java:S6212."/Declare this local variable with "var" instead.(áĞÎíúÿÿÿÿ
+J
+java:S6212D"/Declare this local variable with "var" instead.(Õ°œ²ÿÿÿÿÿ
+E
+java:S6212E"/Declare this local variable with "var" instead.(«á‹
+J
+java:S6212P"/Declare this local variable with "var" instead.(á§’úÿÿÿÿ
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(èæ…º
+J
+java:S6212\"/Declare this local variable with "var" instead.(ÓÀ‹˜şÿÿÿÿ
+E
+java:S6212^"/Declare this local variable with "var" instead.(Ù»ŒÎ
+J
+java:S6212d"/Declare this local variable with "var" instead.(şçÒùÿÿÿÿ
+o
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(œœÕ¼
+E
+java:S6212o"/Declare this local variable with "var" instead.(Ù»ŒÎ
+J
+java:S6212u"/Declare this local variable with "var" instead.(şçÒùÿÿÿÿ
+E
+java:S6212~"/Declare this local variable with "var" instead.(‘’‡
+K
+java:S2864€"4Iterate over the "entrySet" instead of the "keySet".(ó²«Õ
+F
+java:S6212ˆ"/Declare this local variable with "var" instead.(‘’‡
+K
+java:S2864Š"4Iterate over the "entrySet" instead of the "keySet".(ó²«Õ
+T	java:S106•"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+T	java:S106˜"9Replace this use of System.out or System.err by a logger.(ÒÔ™¦ûÿÿÿÿ
+O	java:S106™"9Replace this use of System.out or System.err by a logger.(”•ôŠ
+T	java:S106š"9Replace this use of System.out or System.err by a logger.(™ÔøÚşÿÿÿÿ
+F
+java:S6212"/Declare this local variable with "var" instead.(ÌßíÖ
+L
+java:S1068"1Remove this unused "dataSourceURL" private field.(ÛğŞğøÿÿÿÿ

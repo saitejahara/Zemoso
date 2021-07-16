@@ -1,0 +1,28 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì»ó»
+_
+java:S1128"IRemove this unused import 'TellingStories.FrequentWords.WordFrequencies'.(Ğá–£
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï«Ó·
+D
+java:S6212"/Declare this local variable with "var" instead.(˜ìİ-
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡ŸĞ¬ûÿÿÿÿ
+E
+java:S6212&"/Declare this local variable with "var" instead.(ó¦Ä
+O
+java:S28640"4Iterate over the "entrySet" instead of the "keySet".(Ñªùÿÿÿÿ
+n
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌİÛ
+O
+java:S2864>"4Iterate over the "entrySet" instead of the "keySet".(Ñªùÿÿÿÿ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(õ¿î
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(™é…º
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(ìêñÿÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(­–ÒÁøÿÿÿÿ
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(ë‚ğµ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U	java:S106b"9Replace this use of System.out or System.err by a logger.(…óøÛ8øŠòª/
+]	java:S125c"<This block of commented-out lines of code should be removed.(›ˆæûÿÿÿÿ8ùŠòª/
+D
+java:S6212g"/Declare this local variable with "var" instead.(½Íí
