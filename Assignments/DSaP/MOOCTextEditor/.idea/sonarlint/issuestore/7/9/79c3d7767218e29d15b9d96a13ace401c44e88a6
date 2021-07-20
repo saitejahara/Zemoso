@@ -1,0 +1,37 @@
+
+
+java:S1192…"pDefine a constant instead of duplicating this literal "I don't know why you say goodbye, I say hello. " 3 times.(¶Όϋ΄8Έγι—¬/
+
+java:S1192„"~Define a constant instead of duplicating this literal "I don't know why you say goodbye, I say hello, hello, hello, " 5 times.(έ•»ή8Ήγι—¬/
+
+java:S1192‰"pDefine a constant instead of duplicating this literal "You say goodbye and I say hello, hello, hello. " 3 times.(δΰι8Ίγι—¬/
+9
+java:S1643R"Use a StringBuilder instead.(Ώ¶Λ8½γι—¬/
+9
+java:S1643b"Use a StringBuilder instead.(Ϊ―¨®8½γι—¬/
+:
+java:S1643Μ"Use a StringBuilder instead.(“κ§8½γι—¬/
+[
+java:S1155I">Use isEmpty() to check whether the collection is empty or not.(‘§ήΟ8Ώγι—¬/
+_
+java:S2259N"BA "NullPointerException" could be thrown; "node" is nullable here.(Ò‘ƒα8Βγι—¬/
+d
+java:S2259Q"BA "NullPointerException" could be thrown; "node" is nullable here.(χδυ”ωÿÿÿÿ8Γγι—¬/
+N
+java:S1128"3Remove this unused import 'java.util.ListIterator'.(υ¥ζΚώÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(·―¤ξ
+v
+java:S2293k"YReplace the type specification in this constructor call with the diamond operator ("<>").(·―¤ξ8Μδι—¬/
+T
+java:S1135p"2Complete the task associated to this TODO comment.(ΰιω§ύÿÿÿÿ8Υδι—¬/
+U	java:S106}"9Replace this use of System.out or System.err by a logger.(ΐψμ8λδι—¬/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(€†Δό8ϊδι—¬/
+V	java:S106€"9Replace this use of System.out or System.err by a logger.(μΘ8ύδι—¬/
+U	java:S106™"9Replace this use of System.out or System.err by a logger.(†·µZ8ει—¬/
+V	java:S106›"9Replace this use of System.out or System.err by a logger.(€†Δό8›ει—¬/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(μΘ8ªει—¬/
+|
+java:S2293®"YReplace the type specification in this constructor call with the diamond operator ("<>").(°©ε‡ÿÿÿÿÿ8Ίει—¬/
+P
+java:S1135½"2Complete the task associated to this TODO comment.(«·„υ8Βει—¬/

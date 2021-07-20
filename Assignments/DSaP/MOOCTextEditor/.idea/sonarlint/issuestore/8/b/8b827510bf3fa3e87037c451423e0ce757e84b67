@@ -1,0 +1,21 @@
+
+7
+java:S1643"Use a StringBuilder instead.(ÈÚü°ÿÿÿÿÿ
+7
+java:S1643%"Use a StringBuilder instead.(ÈÚü°ÿÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'java.io.UnsupportedEncodingException'.(Ãµ…“
+U
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+o
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ı­è
+N
+java:S11977"8Move the array designator from the variable to the type.(¥‘Åº
+t
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ˆÓ“ûÿÿÿÿ
+S
+java:S1197h"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+I
+java:S1481-".Remove this unused "incorrect" local variable.(—ü„ªûÿÿÿÿ
+@
+java:S1481."*Remove this unused "tests" local variable.(ª­É„

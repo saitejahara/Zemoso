@@ -1,0 +1,41 @@
+
+z
+java:S1192r"]Define a constant instead of duplicating this literal "AddAtIndex: Add at low index" 6 times.(ΛΗΡΰ8ζπν—¬/
+j
+java:S1192;"TDefine a constant instead of duplicating this literal "Check out of bounds" 5 times.( νοί
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(‚λτ΅ώÿÿÿÿ
+F
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Δπ1
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(‚λτ΅ώÿÿÿÿ
+t
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(“Ση“ϊÿÿÿÿ
+t
+java:S2293#"YReplace the type specification in this constructor call with the diamond operator ("<>").(Θύ©Ωÿÿÿÿÿ
+o
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(τΗ΅”
+o
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(νΣ΅
+C	java:S108=")Either remove or fill this block of code.(Ά«°ϊÿÿÿÿ
+C	java:S108I")Either remove or fill this block of code.(Ά«°ϊÿÿÿÿ
+C	java:S108P")Either remove or fill this block of code.(Ά«°ϊÿÿÿÿ
+C	java:S108]")Either remove or fill this block of code.(Ά«°ϊÿÿÿÿ
+C	java:S108d")Either remove or fill this block of code.(Ά«°ϊÿÿÿÿ
+E	java:S108s")Either remove or fill this block of code.(”ύΎ8ƒρν—¬/
+E	java:S108z")Either remove or fill this block of code.(”ύΎ8„ρν—¬/
+U
+java:S1135‚"2Complete the task associated to this TODO comment.(“™°υϊÿÿÿÿ8…ρν—¬/
+F	java:S108")Either remove or fill this block of code.(”ύΎ8†ρν—¬/
+D
+java:S1905–"&Remove this unnecessary cast to "int".(…–πύ8ρν—¬/
+U
+java:S1135"2Complete the task associated to this TODO comment.(§π ψÿÿÿÿ8ρν—¬/
+F	java:S108΄")Either remove or fill this block of code.(”ύΎ8΅ρν—¬/
+F	java:S108»")Either remove or fill this block of code.(”ύΎ8Άρν—¬/
+F	java:S108Β")Either remove or fill this block of code.(”ύΎ8£ρν—¬/
+F	java:S108Τ")Either remove or fill this block of code.(”ύΎ8¦ρν—¬/
+F	java:S108Ϋ")Either remove or fill this block of code.(”ύΎ8§ρν—¬/
+U
+java:S1135ε"2Complete the task associated to this TODO comment.( η®‚ύÿÿÿÿ8ªρν—¬/
+A
+java:S5960;"+Remove this assertion from production code.( νοί

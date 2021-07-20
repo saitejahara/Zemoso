@@ -1,0 +1,23 @@
+
+K
+java:S3740V"/Provide the parametrized type for this generic.(íÖÀ8ÆØÒ™¬/
+K
+java:S3740{"/Provide the parametrized type for this generic.(íÖÀ8ÇØÒ™¬/
+9
+java:S1643i"Use a StringBuilder instead.(¢š¢Ì8ÈØÒ™¬/
+|
+java:S1149:"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‚ĞÒ8ÎØÒ™¬/
+{
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(‘åîÉüÿÿÿÿ8ÑØÒ™¬/
+|
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(ôŒ‘Ÿıÿÿÿÿ8âØÒ™¬/
+|
+java:S2293”"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ÿ¨ˆ¥ûÿÿÿÿ8ãØÒ™¬/
+v
+java:S2293–"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø«•8äØÒ™¬/
+[	java:S106·"9Replace this use of System.out or System.err by a logger.(ÁíÔ¸ûÿÿÿÿ8çØÒ™¬/
+[	java:S106¸"9Replace this use of System.out or System.err by a logger.(ÑøèÒùÿÿÿÿ8çØÒ™¬/
+U	java:S106½"9Replace this use of System.out or System.err by a logger.(çÕ³8èØÒ™¬/
+[	java:S106¾"9Replace this use of System.out or System.err by a logger.(èæıöüÿÿÿÿ8èØÒ™¬/
+J
+java:S1068"-Remove this unused "THRESHOLD" private field.(¯ÎĞâ8éØÒ™¬/
