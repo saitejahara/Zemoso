@@ -1,8 +1,7 @@
-import java.io.File;
-import java.io.IOException;
-import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import java.io.*;
+import java.util.*;
+import java.util.regex.*;
+
 public class Assignment1{
     //path for home directory
     private static final String path = System.getProperty("user.home");
@@ -14,14 +13,17 @@ public class Assignment1{
         File[] files = file.listFiles();
 
         int patternMatches = 0;
+        //defines a string as a pattern
         Pattern pattern = Pattern.compile(regexPattern, Pattern.CASE_INSENSITIVE);
         for(File file : files) {
+            //used to search the pattern generated above
             Matcher matcher = null;
             try {
-                //matching in the path
+                //matching in the path mentioned above
                 matcher = pattern.matcher(file.getCanonicalPath());
-            } catch (IOException e) {
-                System.out.println("Some error has occurred while processing");
+            }
+            catch (IOException e) {
+                System.out.println(e);
             }
             boolean matchFound = matcher.find();
             if(matchFound) {
@@ -29,12 +31,13 @@ public class Assignment1{
                     //counting the no of matches found in the entire list
                     patternMatches++;
                     System.out.println(file.getCanonicalPath());
-                } catch (IOException e) {
+                }
+                catch (IOException e) {
                     System.out.println(e);
                 }
             }
         }
-        //if no files matched
+        //no files found with matching pattern
         if(patternMatches == 0) {
             System.out.println("No files match the regex");
         }
