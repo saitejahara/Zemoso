@@ -1,0 +1,8 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ˆÔ§îûÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(½´‚çüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(û¿¶Õ
+|
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "singleton".(¸Î¡Ðýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñóæŒüÿÿÿÿ

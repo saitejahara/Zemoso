@@ -1,0 +1,10 @@
+
+n	java:S116"YRename this field "IntInstanceVar" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÆÔöþ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ŒÙé¨ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆÔ§îûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ää¹Âþÿÿÿÿ
+K
+java:S1481"0Remove this unused "intLocalVar" local variable.(ì–Œïúÿÿÿÿ
+F
+java:S1481"1Remove this unused "charLocalVar" local variable.(òþ‚X
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤è¯—

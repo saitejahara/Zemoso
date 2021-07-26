@@ -1,0 +1,9 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ëÇÃúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(‹ïø
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(©…î¨øÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(êˆãèûÿÿÿÿ
+`
+java:S2259"EA "NullPointerException" could be thrown; "matcher" is nullable here.(¾åàÿÿÿÿÿ

@@ -1,0 +1,48 @@
+
+P
+java:S1611"5Remove the parentheses around the "student" parameter(°ççøúÿÿÿÿ
+N
+java:S1612",Replace this lambda with a method reference.(°ççøúÿÿÿÿ8´š”­/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š‡ƒ¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿İ¨ÿÿÿÿÿ
+K
+java:S1611"5Remove the parentheses around the "student" parameter(Øƒ×³
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ì½èïüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„íí
+K
+java:S1611("5Remove the parentheses around the "student" parameter(˜ûì±
+K
+java:S1611)"5Remove the parentheses around the "student" parameter(°³„İ
+N	java:S106,"9Replace this use of System.out or System.err by a logger.(æÀÛà
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(„íí
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(¯±Ò¦ûÿÿÿÿ8¦È¯”­/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(¸«¾¨ÿÿÿÿÿ8¨È¯”­/
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(€èìøşÿÿÿÿ8«È¯”­/
+T	java:S106O"9Replace this use of System.out or System.err by a logger.(ëÁ½"8«È¯”­/
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(õÌ²8­È¯”­/
+U	java:S106a"9Replace this use of System.out or System.err by a logger.(í§šİ8®È¯”­/
+Z	java:S106i"9Replace this use of System.out or System.err by a logger.(à®Íçÿÿÿÿÿ8®È¯”­/
+Z	java:S106k"9Replace this use of System.out or System.err by a logger.(ªğ¿âøÿÿÿÿ8¯È¯”­/
+Z	java:S106s"9Replace this use of System.out or System.err by a logger.(ÂœÜãıÿÿÿÿ8°È¯”­/
+U	java:S106|"9Replace this use of System.out or System.err by a logger.(Æ…ªÁ8±È¯”­/
+S
+java:S1611†"5Remove the parentheses around the "student" parameter(˜ûì±8³È¯”­/
+S
+java:S1611‡"5Remove the parentheses around the "student" parameter(³æÏ§8´È¯”­/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(áÆ°Æ8µÈ¯”­/
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(í§šİ8µÈ¯”­/
+S
+java:S1611œ"5Remove the parentheses around the "student" parameter(˜ûì±8¶È¯”­/
+U	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(÷åß'8·È¯”­/
+V	java:S106¡"9Replace this use of System.out or System.err by a logger.(¨ıòÈ8·È¯”­/
+s
+java:S1192$"QDefine a constant instead of duplicating this literal "Computer Science" 7 times.(«ü°ùÿÿÿÿ8ºÈ¯”­/
+j
+java:S11928"HDefine a constant instead of duplicating this literal "Female" 10 times.(¸«¾¨ÿÿÿÿÿ8ºÈ¯”­/
+h
+java:S1192"KDefine a constant instead of duplicating this literal "Electronic" 5 times.(î±è^8ºÈ¯”­/
+E
+java:S1604U"(Make this anonymous inner class a lambda(Ô¤ù8»È¯”­/
+F
+java:S1604ˆ"(Make this anonymous inner class a lambda(êÔ…ÿ8»È¯”­/
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èãº

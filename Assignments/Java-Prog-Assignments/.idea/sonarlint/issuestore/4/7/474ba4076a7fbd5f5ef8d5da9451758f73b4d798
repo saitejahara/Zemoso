@@ -1,0 +1,12 @@
+
+S
+java:S1197	"8Move the array designator from the variable to the type.(²Á€œüÿÿÿÿ
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(Ôÿª°ÿÿÿÿÿ
+G
+java:S1602 ",Remove useless curly braces around statement(­÷êÿÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(­÷êÿÿÿÿÿ
+`
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(‘½Îüÿÿÿÿ
+e
+java:S2095"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(¬ÎšÅ8ÿ£­/
