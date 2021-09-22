@@ -1,0 +1,25 @@
+
+Q
+!Web-Content/WEB-INF/view/home.jsp,b/4/b43f8661d09d2837891848ca5ca27a2703f28762
+E
+src/com/TestJBDC.java,e/f/ef9378206c5eef590e9a4db2ff03a54932c54acf
+K
+src/com/TestController.java,a/7/a7c4150bf346c8511b3344a600b6c2dd813b6c27
+]
+-src/com/hibernate/demo/CreateStudentDemo.java,4/d/4dd066d1140f3209f1bb63d84692e2dcdd5dcf94
+Z
+*src/com/hibernate/demo/PrimaryKeyDemo.java,7/8/787d379eaba64c1b1d5944c80101d4e8adc54d3a
+[
++src/com/hibernate/demo/ReadStudentDemo.java,e/7/e703dd5479ed1b70b18ea17be5b9aa952309f4fa
+\
+,src/com/hibernate/demo/QueryStudentDemo.java,a/6/a6648cbd9f57ab2b8bb634e3a06fc56a73071934
+]
+-src/com/hibernate/demo/UpdateStudentDemo.java,6/0/60da73658fd83c95efc5d5cb7d39a36bb5fbc6b5
+]
+-src/com/hibernate/demo/DeleteStudentDemo.java,6/9/691e4f4485e9b8d051feaff59af4994f2039045e
+E
+src/hibernate.cfg.xml,5/2/524fbabb9c34b348becff5425aeeaced8e15058f
+O
+src/resources/hibernate.cfg.xml,4/2/42832d26c83fc8eb2fc25a415c5be8af9e2b479d
+Z
+*src/com/hibernate/demo/entity/Student.java,7/d/7dbf412a7dc4a11a31bb27113db2ba1ade2feea4

@@ -1,0 +1,8 @@
+
+Q	java:S125&"<This block of commented-out lines of code should be removed.(šëÉ”
+V
+java:S4684L"@Replace this persistent entity with a simple POJO or DTO object.(®àóŞ
+N	java:S106Q"9Replace this use of System.out or System.err by a logger.(û«¼£
+\
+java:S4684“"@Replace this persistent entity with a simple POJO or DTO object.(Àƒú—úÿÿÿÿ
+O	java:S106˜"9Replace this use of System.out or System.err by a logger.(ƒ‰Ä˜

@@ -1,0 +1,39 @@
+
+c
+java:S1192<"MDefine a constant instead of duplicating this literal " with count " 3 times.(Œ¨û°
+e
+java:S1192;"ODefine a constant instead of duplicating this literal " unique codons" 3 times.(Úºªö
+‹
+java:S1192="pDefine a constant instead of duplicating this literal "Counts of codons between 1 and 5 inclusive are:" 3 times.(àÖ¼çúÿÿÿÿ
+c
+java:S1192;"MDefine a constant instead of duplicating this literal " results in " 3 times.(Úºªö
+p
+java:S1192<"ZDefine a constant instead of duplicating this literal "and most common codon is " 3 times.(Œ¨û°
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ó×¼Ñûÿÿÿÿ
+o
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(˜†û
+J
+java:S6212"/Declare this local variable with "var" instead.(ÖØøÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(­Ú€œúÿÿÿÿ
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(ÉÜğ‰ıÿÿÿÿ
+O
+java:S2864,"4Iterate over the "entrySet" instead of the "keySet".(ÉÜğ‰ıÿÿÿÿ
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(¢ô¯ô
+J
+java:S62126"/Declare this local variable with "var" instead.(õ¯¾µúÿÿÿÿ
+J
+java:S62129"/Declare this local variable with "var" instead.(¡Ò¾üÿÿÿÿ
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(Úºªö
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(Œ¨û°
+S	java:S106="9Replace this use of System.out or System.err by a logger.(àÖ¼çúÿÿÿÿ
+N	java:S106B"9Replace this use of System.out or System.err by a logger.(Ÿ×´š
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(Œ¨û°
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(àÖ¼çúÿÿÿÿ
+N	java:S106I"9Replace this use of System.out or System.err by a logger.(Ÿ×´š
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(Œ¨û°
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(àÖ¼çúÿÿÿÿ
+Q
+java:S6212P"/Declare this local variable with "var" instead.(ßŒçÏÿÿÿÿÿ8ùªñª/

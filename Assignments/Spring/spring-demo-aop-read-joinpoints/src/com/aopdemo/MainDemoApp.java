@@ -1,0 +1,56 @@
+package com.aopdemo;
+
+import com.aopdemo.dao.MembershipDAO;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
+
+import com.aopdemo.dao.AccountDAO;
+
+public class MainDemoApp {
+
+	public static void main(String[] args) {
+
+		// read spring config java class
+		AnnotationConfigApplicationContext context =
+				new AnnotationConfigApplicationContext(DemoConfig.class);
+		
+		// get the bean from spring container
+		AccountDAO theAccountDAO = context.getBean("accountDAO", AccountDAO.class);
+
+		// join point implementation
+		Account account = new Account();
+		account.setName("Teja");
+		account.setLevel("Platinum");
+
+
+		// call the business method
+		theAccountDAO.addAccount(account, true);
+
+		//calling getter/setter methods
+		theAccountDAO.setName("premium account");
+		theAccountDAO.setServiceCode("HB57");
+
+		String name = theAccountDAO.getName();
+		String serviceCode = theAccountDAO.getServiceCode();
+
+		MembershipDAO theMembershipDAO =
+				context.getBean("membershipDAO", MembershipDAO.class);
+
+		theMembershipDAO.addSillyMember();
+
+		theMembershipDAO.anotherMethod();
+				
+		// close the context
+		context.close();
+	}
+
+}
+
+
+
+
+
+
+
+
+
+

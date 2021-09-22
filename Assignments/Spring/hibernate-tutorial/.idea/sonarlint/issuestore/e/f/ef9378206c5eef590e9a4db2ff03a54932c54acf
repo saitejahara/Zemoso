@@ -1,0 +1,9 @@
+
+Y
+java:S1854">Remove this useless assignment to local variable "connection".(ßôîãüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥ùÏ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ö¥û©8ë¾ş§±/
+J
+java:S1481"/Remove this unused "connection" local variable.(ßôîãüÿÿÿÿ
+c
+java:S2095"HUse try-with-resources or close this "Connection" in a "finally" clause.(ßôîãüÿÿÿÿ

@@ -1,0 +1,82 @@
+.bg-myRed {
+  background-color: white;
+}
+
+a.nav-link {
+  padding-bottom: 0px;
+}
+
+.navitem {
+  padding-bottom: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: CeraPRO-BOLD;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.55);
+  margin-bottom: 0px;
+  text-decoration: none;
+}
+
+.expandButton {
+  padding-right: 20px;
+  padding-left: 20px;
+  font-family: CeraPRO-BOLD;
+  font-size: 20px;
+  color: rgba(0, 0, 0, 0.55);
+  margin-bottom: 12px;
+}
+
+.nav1 {
+  font-size: x-large;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 33%);
+
+  grid-template-rows: repeat(3, 33%);
+  position: static;
+}
+.grid-item {
+  padding-left: 30px;
+}
+.item1 {
+  grid-column: 1/2;
+  grid-row: 1/2;
+}
+.item2 {
+  grid-row: 2/3;
+  grid-column: 1/2;
+}
+.item3 {
+  grid-row: 3/4;
+  grid-column: 1/2;
+}
+.item4 {
+  grid-column: 2/3;
+  grid-row: 1/2;
+}
+.item5 {
+  grid-column: 2/3;
+  grid-row: 2/3;
+}
+.item6 {
+  grid-column: 2/3;
+  grid-row: 3/4;
+}
+.item7 {
+  grid-column: 3/4;
+  grid-row: 1/2;
+}
+.item8 {
+  grid-column: 3/4;
+  grid-row: 2/3;
+}
+.item9 {
+  grid-column: 3/4;
+  grid-row: 3/4;
+}
+
+.iconbutton {
+  text-decoration: none;
+  font-size: larger;
+}

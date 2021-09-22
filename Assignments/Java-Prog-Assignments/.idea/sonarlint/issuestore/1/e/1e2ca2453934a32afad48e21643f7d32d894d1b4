@@ -1,0 +1,9 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed.(Çµí‘
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë±»Û
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(‘Ò¶âøÿÿÿÿ
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(‘Ò¶âøÿÿÿÿ
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ËÖÆ©ýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þ¿µÂùÿÿÿÿ

@@ -1,0 +1,19 @@
+
+K
+src/com/TestController.java,a/7/a7c4150bf346c8511b3344a600b6c2dd813b6c27
+E
+src/com/TestJBDC.java,e/f/ef9378206c5eef590e9a4db2ff03a54932c54acf
+c
+3src/com/hibernate/demo/entity/InstructorDetail.java,1/9/19e56f80db1f96688d49a78d273d5b42d0681e34
+V
+&src/com/hibernate/demo/DeleteDemo.java,6/d/6d3070ad9440260b17bfe8c1f23907b25a677517
+O
+src/resources/hibernate.cfg.xml,4/2/42832d26c83fc8eb2fc25a415c5be8af9e2b479d
+E
+src/hibernate.cfg.xml,5/2/524fbabb9c34b348becff5425aeeaced8e15058f
+Z
+*src/com/hibernate/demo/entity/Student.java,7/d/7dbf412a7dc4a11a31bb27113db2ba1ade2feea4
+V
+&src/com/hibernate/demo/CreateDemo.java,e/0/e07a8d579594984ab8d8abe4e72a27ba34ff52da
+]
+-src/com/hibernate/demo/entity/Instructor.java,7/3/73d916322395fb9dd0f5c1cf985e8400efef3a6b

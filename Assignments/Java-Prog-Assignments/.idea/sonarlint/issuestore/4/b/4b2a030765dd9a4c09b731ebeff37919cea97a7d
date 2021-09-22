@@ -1,0 +1,9 @@
+
+]
+java:S2094"BRemove this empty class, write its code or make it an "interface".(âÊ¤ÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‹áÙ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŞßÔ£úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(’½Í¬üÿÿÿÿ
+R
+java:S1610"<Convert the abstract class "FactoryClass" into an interface.(‘ìüÕ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ƒ‹øÿÿÿÿÿ

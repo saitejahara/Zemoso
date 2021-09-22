@@ -1,0 +1,38 @@
+<html>
+  <head>
+    <title>Storage Assignment</title>
+
+    <style>
+      body {
+        background-color: #f3bb6798;
+      }
+      .flex-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20em;
+      }
+
+      .child {
+        margin-right: 3em;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="flex-container">
+      <div class="child">
+        <h2>Local Storage</h2>
+        <h3 id="localStorageCount"></h3>
+        <button onclick="incrementLSCount()">Increment</button>
+      </div>
+
+      <div>
+        <h2>Session Storage</h2>
+        <h3 id="sessionStorageCount"></h3>
+        <button onclick="incrementSSCount()">Increment</button>
+      </div>
+    </div>
+    <script type="text/javascript" src="storage.js"></script>
+  </body>
+</html>

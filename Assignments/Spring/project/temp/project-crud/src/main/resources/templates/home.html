@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org"
+	  xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity5">
+
+<head>
+	<title>Thymeleaf Demo</title>
+
+	<!-- reference CSS file -->
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+
+</head>
+
+<body>
+
+
+
+
+<br><br><br>
+
+
+<div class="container" sec:authorize="hasAnyRole('ROLE_BOSS')">
+	<a class="button" th:href="@{/boss/drivers/list}">Drivers List</a><br><br>
+	<a class="button" th:href="@{/boss/cars/list}">Cars List</a>
+</div>
+
+<div class="container" sec:authorize="hasAnyRole('ROLE_DRIVER')">
+	<a class="button" th:href="@{/driver/availableCars}">List of available cars</a>
+</div>
+
+<br><br><br>
+
+<div class="container" sec:authorize="hasAnyRole('ROLE_DRIVER, ROLE_BOSS')">
+	Logged user: <span sec:authentication="name"></span><br>
+	Role: <span sec:authentication="principal.authorities"></span>
+</div>
+
+
+
+<br><br>
+<div class="container">
+	<form th:action="@{/logout}" method="post">
+		Logout and/or head to login page
+		<input class="button" type="submit" value="Click here" />
+	</form>
+</div>
+
+
+
+</body>
+
+</html>

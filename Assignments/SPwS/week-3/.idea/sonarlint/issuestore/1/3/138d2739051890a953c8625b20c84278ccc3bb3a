@@ -1,0 +1,30 @@
+
+j
+java:S1192"HDefine a constant instead of duplicating this literal "Country" 3 times.(‘ı‘Çüÿÿÿÿ8ÇÙœ§ª/
+j
+java:S1192
+"HDefine a constant instead of duplicating this literal "Exports" 3 times.(¤­ºùÿÿÿÿ8ÈÙœ§ª/
+Q
+java:S6212"/Declare this local variable with "var" instead.(Íªäúÿÿÿÿ8ÛÙœ§ª/
+W
+java:S6213":Rename this variable to not match a restricted identifier.(Õ÷ 8İÙœ§ª/
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(óÂåìıÿÿÿÿ8áÙœ§ª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¯ñ…°øÿÿÿÿ8äÙœ§ª/
+W
+java:S6213":Rename this variable to not match a restricted identifier.(Õ÷ 8èÙœ§ª/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ãïëêúÿÿÿÿ8ëÙœ§ª/
+L
+java:S6212"/Declare this local variable with "var" instead.(şõÀİ8ïÙœ§ª/
+W
+java:S6213":Rename this variable to not match a restricted identifier.(Õ÷ 8ñÙœ§ª/
+W
+java:S6213!":Rename this variable to not match a restricted identifier.(Õ÷ 8õÙœ§ª/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(öüÙÅüÿÿÿÿ8÷Ùœ§ª/
+Q
+java:S6212)"/Declare this local variable with "var" instead.(õ¯¾µúÿÿÿÿ8”ìŸ§ª/
+K
+java:S6212*"/Declare this local variable with "var" instead.(æ““
+8˜ìŸ§ª/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(¨õÅÿÿÿÿÿ8ıÙœ§ª/
+Q
+java:S62125"/Declare this local variable with "var" instead.(ØÎÙ´üÿÿÿÿ8·‹ §ª/

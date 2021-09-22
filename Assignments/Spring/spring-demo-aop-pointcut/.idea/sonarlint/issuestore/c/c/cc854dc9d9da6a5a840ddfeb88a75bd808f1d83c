@@ -1,0 +1,10 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶Íç‰ÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶Íç‰ÿÿÿÿÿ8ôÊİ²/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶Íç‰ÿÿÿÿÿ8ãÁŸİ²/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶Íç‰ÿÿÿÿÿ8äÁŸİ²/
+A
+java:S1172 "&Remove these unused method parameters.(ç•õëÿÿÿÿÿ
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(¾Ì½òùÿÿÿÿ8øÔŸİ²/
+p
+java:S1192"NDefine a constant instead of duplicating this literal "getter/setter" 4 times.(¶Íç‰ÿÿÿÿÿ8æÁŸİ²/

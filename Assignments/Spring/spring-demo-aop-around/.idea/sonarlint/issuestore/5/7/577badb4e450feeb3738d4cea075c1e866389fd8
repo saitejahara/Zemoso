@@ -1,0 +1,16 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚ƒÆùşÿÿÿÿ8ã°ö²/
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(·å½8æ°ö²/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(×µÛ¡úÿÿÿÿ8ê°ö²/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(ÎæúÍûÿÿÿÿ8ï°ö²/
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(ªüÃ‡8ñ°ö²/
+T	java:S106Z"9Replace this use of System.out or System.err by a logger.(ÙíD8ó°ö²/
+U	java:S106]"9Replace this use of System.out or System.err by a logger.(Šÿ¡8õ°ö²/
+U	java:S106d"9Replace this use of System.out or System.err by a logger.(Šÿ¡8ù°ö²/
+V	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(¢Ã¹›8‘°ö²/
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¡ßµã8‚‘°ö²/
+V	java:S106‘"9Replace this use of System.out or System.err by a logger.(Üœé“8„‘°ö²/
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(Ä¸ñ8‡‘°ö²/
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(ú›„åûÿÿÿÿ8‰‘°ö²/
+@
+java:S1128"Remove this duplicated import.(‚ä¸ûÿÿÿÿ8„–±ö²/

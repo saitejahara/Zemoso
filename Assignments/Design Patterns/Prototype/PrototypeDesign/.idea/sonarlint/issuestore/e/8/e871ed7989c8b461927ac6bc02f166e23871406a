@@ -1,0 +1,9 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(º£ß‡ýÿÿÿÿ8é·þÎª/
+p
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë8Ý…ýÎª/
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù×™ž8ÿì‰Ïª/
+e
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë8â…ýÎª/

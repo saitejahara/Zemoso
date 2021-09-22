@@ -1,0 +1,10 @@
+
+J
+java:S3740B"/Provide the parametrized type for this generic.(ßåÿ¡ýÿÿÿÿ
+w
+java:S1128
+"URemove this unused import 'org.springframework.transaction.annotation.Transactional'.(ðùçøùÿÿÿÿ8º´‰Ñ²/
+w
+java:S1488""aImmediately return this expression instead of assigning it to the temporary variable "customers".(°ô†ä
+~
+java:S1488:"cImmediately return this expression instead of assigning it to the temporary variable "theCustomer".(š´Á¦ýÿÿÿÿ

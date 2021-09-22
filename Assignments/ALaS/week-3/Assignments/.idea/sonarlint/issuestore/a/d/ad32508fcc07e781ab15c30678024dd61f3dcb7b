@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ôåúî
+M
+java:S1128"2Remove this unused import 'edu.duke.FileResource'.(¶ã¾‚úÿÿÿÿ
+D
+java:S6212"/Declare this local variable with "var" instead.(ï£—<
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ½Ñ°üÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(´“¼ô
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«©ÍŒ
+E
+java:S6212"/Declare this local variable with "var" instead.(°£ÏÁ
+J
+java:S6212"/Declare this local variable with "var" instead.(²íÀ…þÿÿÿÿ

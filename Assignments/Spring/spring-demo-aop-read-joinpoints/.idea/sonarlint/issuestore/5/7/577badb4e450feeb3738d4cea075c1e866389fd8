@@ -1,0 +1,8 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(Ôç£à
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(‚‰úº
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Üœé“
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(¶®›úÿÿÿÿ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(¾Œœ°ıÿÿÿÿ
+W
+java:S1128"ARemove this unused import 'org.aspectj.lang.annotation.Pointcut'.(ˆ“¡¿

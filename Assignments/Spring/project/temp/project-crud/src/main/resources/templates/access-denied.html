@@ -1,0 +1,21 @@
+<html  lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+	<title>luv2code - Access Denied</title>
+</head>
+
+<body>
+
+	<h2>Access Denied - You are not authorized to access this resource.</h2>
+
+	<hr>
+
+	<a href="${pageContext.request.contextPath}/">Back to Home Page</a>
+
+	<form th:action="@{/logout}" method="post">
+		<input class="button" type="submit" value="Logout" />
+	</form>
+
+</body>
+
+</html>

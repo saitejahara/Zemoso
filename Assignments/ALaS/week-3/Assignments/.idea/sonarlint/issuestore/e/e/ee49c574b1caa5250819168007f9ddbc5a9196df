@@ -1,0 +1,56 @@
+
+†
+java:S13192"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(©ç™¬
+ˆ
+java:S1319N"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¤ª” ûÿÿÿÿ
+‹
+java:S1319^"pThe type of the "ipCounts" object should be an interface such as "Map" rather than the implementation "HashMap".(ë¨ãÿÿÿÿÿ
+†
+java:S1319l"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ÉŒÊ
+†
+java:S1319l"pThe type of the "ipCounts" object should be an interface such as "Map" rather than the implementation "HashMap".(ÉŒÊ
+ˆ
+java:S1319{"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¯·ÿıÿÿÿÿ
+‡
+java:S1319‘"qThe type of the "ipsPerDay" object should be an interface such as "Map" rather than the implementation "HashMap".(£ï
+Œ
+java:S1319¡"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ñ«…¹şÿÿÿÿ
+
+java:S1319¡"qThe type of the "ipsPerDay" object should be an interface such as "Map" rather than the implementation "HashMap".(ñ«…¹şÿÿÿÿ
+J
+java:S10667"/Merge this if statement with the enclosing one.(æ”Êàúÿÿÿÿ
+J
+java:S1066E"/Merge this if statement with the enclosing one.(æ”Êàúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥îÕ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ëšÙ
+J
+java:S6212"/Declare this local variable with "var" instead.(€üš”ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ½Ñ°üÿÿÿÿ
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ş»Û
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(ƒ½Ñ°üÿÿÿÿ
+o
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ş»Û
+o
+java:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(‚ş»Û
+o
+java:S2293O"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¸Áâ
+O
+java:S2864a"4Iterate over the "entrySet" instead of the "keySet".(ˆü—˜şÿÿÿÿ
+t
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").(Îé‚Ìùÿÿÿÿ
+O
+java:S2864p"4Iterate over the "entrySet" instead of the "keySet".(ˆü—˜şÿÿÿÿ
+t
+java:S2293|"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ïˆµÿÿÿÿÿ
+F
+java:S6212€"/Declare this local variable with "var" instead.(”½š
+p
+java:S2293…"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÅÁ¥
+F
+java:S6212’"/Declare this local variable with "var" instead.(ÃÑøĞ
+P
+java:S2864•"4Iterate over the "entrySet" instead of the "keySet".( ¡•Šúÿÿÿÿ
+p
+java:S2293£"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¸Áâ

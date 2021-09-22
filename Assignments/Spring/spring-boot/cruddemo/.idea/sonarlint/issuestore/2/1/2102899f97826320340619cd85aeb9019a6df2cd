@@ -1,0 +1,8 @@
+
+g	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(¿¨Òùÿÿÿÿ8†£úÏµ/
+g	java:S112T"FDefine and throw a dedicated exception instead of using a generic one.(¿¨Òùÿÿÿÿ8†£úÏµ/
+X	java:S125#"<This block of commented-out lines of code should be removed.(…ÄæÎ8Š£úÏµ/
+[
+java:S46844"@Replace this persistent entity with a simple POJO or DTO object.(ö‹8‰›öäµ/
+b
+java:S4684C"@Replace this persistent entity with a simple POJO or DTO object.(©‡–ãüÿÿÿÿ8Œ›öäµ/

@@ -1,0 +1,15 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ì¤ùÔùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¾şÙ»
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŞçÍ
+
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(ˆ…­Å8¸íâí¬/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(øÿÍº
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ó˜¸¬
+S
+java:S1197"8Move the array designator from the variable to the type.(µ¶’¬ÿÿÿÿÿ
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(–‹Ï 
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´´ºÆúÿÿÿÿ
+H
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ

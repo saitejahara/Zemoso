@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zemoso Labs</title>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <div class="navbar">
+        <div class="container">
+            <a class="logo" href="#">Zemoso<span>Labs</span></a>
+
+            <img id="mobile-cta" class="mobile-menu" src="images/menu.svg" alt="Open Navigation">
+
+            <nav>
+                <img id="mobile-exit" class="mobile-menu-exit" src="images/exit.svg" alt="Close Navigation">
+
+                <ul class="primary-nav">
+                    <li class="current"><a href="#">Home</a></li>
+                    <li><a href="#features">About</a></li>
+                    <li><a href="#testimonials">Gallery</a></li>
+                    <li><a href="#contactUs">Contact</a></li>
+                </ul>
+
+                <ul class="secondary-nav">
+                    <li class="go-premium-cta"><a href="#">Login</a></li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+
+    <section class="hero">
+        <div class="container">
+            <div class="left-col">
+                <p class="subhead">Zero to one lean acceleration</p>
+                <h1>Helping you take ideas from Napkin to Product Market Fit</h1>
+
+
+            </div>
+
+            <img src="images/illustration.svg" class="hero-img" alt="Illustration">
+        </div>
+    </section>
+
+    <section class="features-section" id="features">
+        <div class="container">
+            <ul class="features-list">
+                <li>Product Market Fit Optimization</li>
+                <li>Design thinking</li>
+                <li>Lean experimentation</li>
+                <li>Agile execution</li>
+                <li>Natural Language Understanding</li>
+                <li>Machine Learning and Artificial Intelligence</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="testimonials-section" id="testimonials">
+        <div class="container">
+            <ul>
+                <li>
+                    <img src="images/testimonial1.png" alt="Co-Founder @ Skyflow">
+
+                    <blockquote>"Rapid and iterative prototyping is both a science and an art form that requires design
+                        thinking, excellent grasp of use cases, and state of the art technologies. It's not easy to
+                        build prototypes, and for that reason - frequently- entrepreneurs use external expertise to
+                        build them. I have effectively continually done so with our partnership Zemoso Technologies and
+                        would work with them again"</blockquote>
+                    <cite>- Co-Founder @ Skyflow</cite>
+                </li>
+                <li>
+                    <img src="images/testimonial2.jpg" alt="Raju Kattumenu, CEO, Oculus360">
+
+                    <blockquote>"ZeMoSo is an ideal partner for lean launches. Our mobile application is a complex
+                        native iOS and Android app involving VoiP protocols & localization. ZeMoSo helped us launch our
+                        app in a time sensitive manner, and backed us up great after launch" </blockquote>
+                    <cite>- Raju Kattumenu, CEO, Oculus360</cite>
+                </li>
+                <li>
+                    <img src="images/testimonial3.jpg" alt="Gustavo Zepeda, Product Manager, TuFono">
+
+                    <blockquote>"Building differentiated custom data visualization widgets is ZeMoSo's forte. ZeMoSo was
+                        a key development partner in our platform"</blockquote>
+                    <cite>- Gustavo Zepeda, Product Manager, TuFono</cite>
+                </li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="contact-section" id="contactUs">
+        <div class="container">
+            <div class="contact-left">
+                <h2>Reach out to us</h2>
+
+                <form action="#">
+                    <label for="name">Name</label>
+                    <input type="text" id="name" name="name">
+
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email">
+
+                    <label for="message">Message</label>
+                    <textarea name="message" id="message" cols="30" rows="10"></textarea>
+
+                    <input type="submit" class="send-message-cta" value="Submit">
+                </form>
+            </div>
+            <div class="contact-right">
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.782988604388!2d78.37958051487685!3d17.422199088057774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93ff8682f259%3A0x201979d6a4318e81!2sZeMoSo%20Technologies!5e0!3m2!1sen!2sin!4v1630148086124!5m2!1sen!2sin"
+                    width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false"
+                    tabindex="0"></iframe>
+            </div>
+
+        </div>
+    </section>
+
+    <script>
+
+        const mobileBtn = document.getElementById('mobile-cta')
+        nav = document.querySelector('nav')
+        mobileBtnExit = document.getElementById('mobile-exit');
+
+        mobileBtn.addEventListener('click', () => {
+            nav.classList.add('menu-btn');
+        })
+
+        mobileBtnExit.addEventListener('click', () => {
+            nav.classList.remove('menu-btn');
+        })
+
+
+
+    </script>
+
+</body>
+
+</html>

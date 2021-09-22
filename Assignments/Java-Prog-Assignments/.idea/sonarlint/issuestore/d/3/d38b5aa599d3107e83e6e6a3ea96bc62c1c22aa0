@@ -1,0 +1,24 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¥ÂŸÄûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Öàé®úÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(÷“¦æ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(¢ù“
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ß—‹’ùÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(ŠµŞà
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(¢ƒÖ‡
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(Å°ÁÌ
+G
+java:S1172:"1Remove this unused method parameter "interface1".(º¤½—
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(´Õ³‚şÿÿÿÿ
+G
+java:S1172>"1Remove this unused method parameter "interface2".(ÃÊĞ‡
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(±ûŒ’ûÿÿÿÿ
+G
+java:S1172B"1Remove this unused method parameter "interface3".(½¢êî
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(¨Œ¿«
+G
+java:S1172F"1Remove this unused method parameter "interface4".(ìè…
+M	java:S106G"9Replace this use of System.out or System.err by a logger.(’¢ô2
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(æšÍ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(§®ÑÜùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¨ƒ‹øÿÿÿÿÿ

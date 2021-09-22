@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+	<title>Thymeleaf Demo</title>
+	
+	<!-- reference CSS file -->
+	<link rel="stylesheet"
+		  th:href="@{/css/demo.css}" />
+	
+</head>
+
+<body>
+
+	<br><br>
+	<div class="container">
+		<form th:action="@{/logout}" method="post">
+			Logout and/or head to login page
+			<input class="button" type="submit" value="Click here" />
+		</form>
+	</div>
+
+</body>
+
+</html>
+
+
+
+
+
+
